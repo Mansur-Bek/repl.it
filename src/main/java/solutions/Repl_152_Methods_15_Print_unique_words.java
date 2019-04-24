@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.Scanner;
 
-public class Repl152 {
+public class Repl_152_Methods_15_Print_unique_words {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int size = scan.nextInt();

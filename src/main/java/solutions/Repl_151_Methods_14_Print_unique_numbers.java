@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.Scanner;
 
-public class Repl151 {
+public class Repl_151_Methods_14_Print_unique_numbers {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int size = scan.nextInt();

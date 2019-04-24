@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.Scanner;
 
-public class Repl149 {
+public class Repl_149_Methods_12_Time_Conversion {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		timeConversion(scan.nextLine());

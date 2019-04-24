@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.Scanner;
 
-public class Fib154 {
+public class Repl_154_Methods_17_Fibonacci_numbers {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int num = scan.nextInt();

@@ -3,7 +3,7 @@ package solutions;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Repl148 {
+public class Repl_148_Methods_11_add_to_array {
 	public static void add_to_r(int[] r, int n) {
 		// create new array with one more position.
 		int[] new_r;
