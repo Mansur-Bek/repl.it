@@ -3,7 +3,7 @@ package solutions;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ZoombieAttack1and2 {
+public class Repl_124_Arrays_Zombie_Attack_2 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
