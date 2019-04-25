@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.Scanner;
 
-public class Repl131 {
+public class Repl_131_2D_Arrays_match_two {
 	public static void main(String[] args) {
 		Scanner inp = new Scanner(System.in);
 		int rows = inp.nextInt(), cols = inp.nextInt();

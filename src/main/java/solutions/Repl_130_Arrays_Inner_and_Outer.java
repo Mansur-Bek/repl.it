@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.*;
 
-public class Repl130 {
+public class Repl_130_Arrays_Inner_and_Outer {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int sizeInner = scan.nextInt();

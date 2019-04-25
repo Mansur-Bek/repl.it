@@ -3,7 +3,7 @@ package solutions;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Repl136 {
+public class Repl_136_Arrays_Shift_Left {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int size = scan.nextInt();
