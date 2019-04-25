@@ -1,9 +1,10 @@
 package solutions;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class Repl92 {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		Scanner scan = new Scanner(System.in);
 		String json = scan.nextLine();
 
@@ -14,5 +15,8 @@ public class Repl92 {
 
 		System.out.println("First name: " + name.trim());
 		System.out.println("Last name: " + surname.trim());
+		StringBuilder s = new StringBuilder("as");
+		String ss = "sd";
+		ss.length();
 	}
 }

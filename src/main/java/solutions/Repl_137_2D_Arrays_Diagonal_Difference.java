@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.Scanner;
 
-public class Repl137 {
+public class Repl_137_2D_Arrays_Diagonal_Difference {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int[][] matrix = new int[][] { { scan.nextInt(), scan.nextInt(), scan.nextInt() },

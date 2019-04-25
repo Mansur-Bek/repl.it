@@ -2,7 +2,7 @@ package solutions;
 
 import java.util.Scanner;
 
-public class Repl150_Methods_13_Verify_Datatypes {
+public class Repl_150_Methods_13_Verify_Datatypes {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		String numStr = scan.next();
