@@ -16,3 +16,13 @@ public class Repl_072_Email_2 {
 
 	}
 }
+
+//Write a program that will print out information about user based on email. Print first and last name from the upper case.
+//
+//Example:
+//Input: craig_federighi@apple.com
+//Output: 
+//First name: Craig
+//Last name: Federighi
+//Domain: apple
+//Top-Level Domain: com
